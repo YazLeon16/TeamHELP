@@ -6,6 +6,7 @@
          $usuario->login();
      }
 ?>
+//Hola como estas//
 <!DOCTYPE html>
 <html>
 <head lang="es">
