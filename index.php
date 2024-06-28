@@ -7,6 +7,7 @@
      }
 ?>
 //Hola como estas//
+//bien y tu//
 <!DOCTYPE html>
 <html>
 <head lang="es">
